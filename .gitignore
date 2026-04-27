@@ -1,0 +1,7 @@
+*.docx
+*.docx#
+*.txt
+*.out
+
+data/
+build/
